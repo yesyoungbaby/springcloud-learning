@@ -1,2 +1,2 @@
 # springcloud-learning
-- config-serverµÄÁ·Ï°
+- config-serverç»ƒä¹ 
